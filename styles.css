@@ -108,7 +108,7 @@ p {
 button {
     background-color: #8A94ED;
     border-radius: 5px;
-    color: white;
+    color: black;
     font-family: "Poppins", sans-serif;
     font-size: 18px;
     padding: 10px;
@@ -258,7 +258,7 @@ button {
 }
 
 .tags {
-    color: #7A7A7A;
+    color: black;
     margin-right: 20px;
 }
 
