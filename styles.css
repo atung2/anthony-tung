@@ -90,6 +90,10 @@ li {
     color: white;
 }
 
+.black-text {
+    color: black;
+}
+
 p {
     font-family: "Open Sans";
     font-size: 18px;
